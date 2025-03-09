@@ -41,7 +41,7 @@
 
 ### Сборка
 ```bash
-git clone https://github.com/yourusername/Calculator_qt_cpp.git
+git clone https://github.com/Nickeron-atc/Calculator_qt_cpp.git
 cd Calculator_qt_cpp
 mkdir build && cd build
 cmake .. -DCMAKE_PREFIX_PATH="путь_к_вашей_установке_Qt"
