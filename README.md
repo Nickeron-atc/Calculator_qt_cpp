@@ -1,14 +1,19 @@
-# Calculator_qt_cpp
-Calculator application made with c++ and qt in qt-creator ide
+# Calculator_qt_cpp 🖩
 
-'''
-.
-|-- CMakeLists.txt
-|-- calculator.cpp   // Calculator class src that evaluates string expressions, backend
-|-- calculator.h     // Сalculator class header
-|-- main.cpp         // main function
-|-- mainwindow.cpp   // MainWindow class src, frontend
-|-- mainwindow.h     // MainWindow class header
-`-- mainwindow.ui    // MainWindow UI made with qt-creator in gui builder
-'''
-0 directories, 7 files
+Калькулятор с графическим интерфейсом, реализованный на C++ и Qt.  
+Проект создан в Qt Creator и демонстрирует:
+- Работу с виджетами и слотами/сигналами
+- Обработку математических выражений
+- Динамическое обновление интерфейса
+
+![Calculator Demo](https://www.figma.com/file/gJIvIUNBfA1OqMXshPFocu/Calculator_Android?node-id=0%3A1)
+
+## ✨ Особенности
+- Базовые операции: `+`, `-`, `*`, `/`
+- Поддержка десятичных чисел и отрицательных значений
+- Обработка ошибок (деление на ноль, неверный ввод)
+- История последних вычислений
+- Интерфейс, созданный в Qt Designer
+
+## 🛠 Технические детали
+### Структура проекта
