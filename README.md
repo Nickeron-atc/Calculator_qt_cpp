@@ -6,7 +6,7 @@
 - Обработку математических выражений
 - Динамическое обновление интерфейса
 
-![Calculator Demo](https://www.figma.com/file/gJIvIUNBfA1OqMXshPFocu/Calculator_Android?node-id=0%3A1)
+[[https://www.figma.com/file/gJIvIUNBfA1OqMXshPFocu/Calculator_Android?node-id=0%3A1]]
 
 ## ✨ Особенности
 - Базовые операции: `+`, `-`, `*`, `/`
